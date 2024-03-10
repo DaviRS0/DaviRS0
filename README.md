@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello! I'm Davi
 
-<!--
-**DaviRS0/DaviRS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+- 🔭 I'm a college student in the Conestoga instituion
+- 🌱 Currently looking for new opportunities for my career.
+- 📫 Email for contact: ItsDaviRS@gmail.com
+- 😄 Pronouns: He/they
+- ⚡ Fun fact: I learned how to code to automate simple tasks for myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github statuts
+
+<div>
+    <a href="https://github.com/DaviRS0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviRS0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRS0&layout=compact&langs_count=7&theme=dark"/></a>
+</div>
+
+## Softwares and tools
+[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,postman,vercel,visualstudio,vscode,androidstudio)](https://skillicons.dev)
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,javascript,python)](https://skillicons.dev)
+
+## Libraries and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flask,nextjs,react,spring,sklearn,tailwind)](https://skillicons.dev)
+
+## Data storage
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
