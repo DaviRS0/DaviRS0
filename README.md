@@ -17,13 +17,13 @@
 </div>
 
 ## Softwares and tools
-[![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,postman,vercel,visualstudio,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,blender,visualstudio,vscode)](https://skillicons.dev)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,javascript,python)](https://skillicons.dev)
 
 ## Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,nextjs,react,spring,sklearn,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,nextjs,react,spring)](https://skillicons.dev)
 
 ## Data storage
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
