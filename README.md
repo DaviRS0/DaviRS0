@@ -2,7 +2,7 @@
 
 ## About
 
-- 🔭 I'm a college student in the Conestoga instituion
+- 🔭 I'm a college student in the Conestoga institution.
 - 🌱 Currently looking for new opportunities for my career.
 - 📫 Email for contact: ItsDaviRS@gmail.com
 - 😄 Pronouns: He/they
