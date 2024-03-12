@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,javascript,python)](https://skillicons.dev)
 
 ## Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nextjs,nodejs,react)](https://skillicons.dev)
 
 ## Data storage
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
