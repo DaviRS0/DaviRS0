@@ -10,11 +10,15 @@
 
 ## My Github statuts
 
-<div>
-    <a href="https://github.com/DaviRS0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviRS0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRS0&layout=compact&langs_count=7&theme=dark"/></a>
+<div align="center">
+  <img src="https://gio-github-readme-stats.vercel.app/api?username=DaviRS0&theme=jolly&hide_border=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />  
+  <img src="https://gio-github-readme-stats.vercel.app/api/top-langs/?username=DaviRS0&theme=jolly&hide_border=true&layout=compact&count_private=true&extra=pupperjs/core" />
+  
+  <br/><br/>
+  
 </div>
+
+  <br/><br/>
 
 ## Softwares and tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,blender,visualstudio,vscode,idea,pr)](https://skillicons.dev)
