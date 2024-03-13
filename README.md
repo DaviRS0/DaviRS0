@@ -10,7 +10,7 @@
 
 ## My Github statuts
 
-<div align="center">
+<div style="display: flex; flex-direction: row;">
   <img src="https://gio-github-readme-stats.vercel.app/api?username=DaviRS0&theme=jolly&hide_border=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />  
   <img src="https://gio-github-readme-stats.vercel.app/api/top-langs/?username=DaviRS0&theme=jolly&hide_border=true&layout=compact&count_private=true&extra=pupperjs/core" width="445" />
   
