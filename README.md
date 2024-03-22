@@ -2,11 +2,11 @@
 
 ## About
 
-- 🔭 I'm a college student in the Conestoga institution.
-- 🌱 Currently looking for new opportunities for my career.
+- 🔭 I'm a college student in the Conestoga institution
+- 🌱 Currently looking for new opportunities for my career
 - 📫 Email for contact: ItsDaviRS@gmail.com
 - 😄 Pronouns: He/they
-- ⚡ Fun fact: I learned how to code to automate simple tasks for myself.
+- ⚡ Fun fact: I learned how to code to automate simple tasks for myself
 
 ## My Github statuts
 
