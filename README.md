@@ -18,7 +18,7 @@
   <br/><br/>
 
 ## Softwares and tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,blender,visualstudio,vscode,idea,pr,atom)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,blender,visualstudio,vscode,idea,pr)](https://skillicons.dev)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,java,javascript,python,lua)](https://skillicons.dev)
