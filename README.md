@@ -10,10 +10,11 @@
 
 ## My Github statuts
 
-<p align="center">
-  <img src="https://gio-github-readme-stats.vercel.app/api?username=DaviRS0&theme=jolly&hide_border=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />  
-  <img src="github-readme-stats-rho-opal-62.vercel.app/api/top-langs/?username=DaviRS0&theme=jolly&hide_border=true&layout=compact&count_private=true&extra=pupperjs/core" />
-</p>
+<picture>
+  <source 
+  srcset="https://github-readme-stats-rho-opal-62.vercel.app/api?username=DaviRS0&theme=jolly&hide_border=true&show_icons=true&hide=issues&count_private=true&include_all_commits=true" 
+  srcset="https:/github-readme-stats-rho-opal-62.vercel.app/api/top-langs/?username=DaviRS0&theme=jolly&hide_border=true&layout=compact&count_private=true&extra=pupperjs/core"
+</picture>
 
   <br/><br/>
 
